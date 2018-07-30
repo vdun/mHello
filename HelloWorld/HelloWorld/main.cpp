@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "aaa!" << endl;
+	cout << "axaa!" << endl;
 	return 0;
 }
